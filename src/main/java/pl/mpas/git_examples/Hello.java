@@ -4,7 +4,7 @@ public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello git");
         System.out.println("Pozdrowienia sąsiedzie");
-        System.out.println("Kolejne pozdrowienia lecą mordo!  :)");
+        System.out.println("Kolejne pozdrowienia lecą mordo! :)");
         System.out.println("Hasta la vista");
     }
 }
