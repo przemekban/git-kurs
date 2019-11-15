@@ -13,7 +13,8 @@ public class CarProvider {
                 new Car("BMW", "E36", "black", new BigDecimal("25000.00"), 2),
                 new Car("Nissan", "Primera", "red", new BigDecimal("30000"), 1),
                 new Car("Skoda", "Octavia", "green", new BigDecimal("10000"), 3),
-                new Car("Volkswagen", "Golf GTI", "black", new BigDecimal("32500"), 2)
+                new Car("Volkswagen", "Golf GTI", "black", new BigDecimal("32500"), 2),
+                new Car("Mazda", "MX6", "black", new BigDecimal("30500"), 2)
         );
     }
 }

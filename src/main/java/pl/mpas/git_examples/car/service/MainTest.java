@@ -13,6 +13,7 @@ public class MainTest {
 
         LambdaOperation added = (a, b) -> a + b;
         LambdaOperation sub = (a,b) -> a - b;
+
         System.out.println(added.calc(3,4));
         System.out.println(sub.calc(8, 3));
         System.out.println(sub.calc2("sfa"));
