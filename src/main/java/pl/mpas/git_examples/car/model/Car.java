@@ -7,7 +7,7 @@ import java.math.BigDecimal;
 
 @Data
 @AllArgsConstructor
-public class car {
+public class Car {
     private String brand;
     private String model;
     private String color;
