@@ -6,6 +6,6 @@ public class Hello {
         System.out.println("Pozdrowienia sąsiedzie");
         System.out.println("Kolejne pozdrowienia lecą mordo!");
         System.out.println("Hasta la vista");
-        System.out.println("hehe No cześć");
+        System.out.println("hehe. No cześć");
     }
 }
